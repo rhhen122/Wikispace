@@ -6,17 +6,8 @@
 ### WikispaceVIMP will appear in whatever folder you are currently inside
 install to documents folder
 ```
-cd ~/documents; git clone https://github.com/rhhen122/WikispaceVIMP.git ; cd ~
+wget https://github.com/rhhen122/WikispaceVIMP/blob/EARLY-REALEASES/WikispaceVIMP-EARLY-REALEASES.zip
 ```
-git
-```
-git clone https://github.com/rhhen122/WikispaceVIMP.git
-```
-gh
-```
-gh repo clone rhhen122/WikispaceVIMP
-```
-
 This Is WikiEdit!         And This is the README Explaining how to use it!
 
 ESTMATED TIME OF READING: 3:30 MIN
